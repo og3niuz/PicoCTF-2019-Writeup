@@ -14,7 +14,7 @@ This CTF was done by @m14ghost
 
 Challenges | Points | Status
 ---------- | ------ | ------
-[Insp3ct0r](https://github.com/m14ghost/PicoCTF-2019-Writeup) | 50 | Solved
+[Insp3ct0r](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Web%20Exploitation/Insp3ct0r.md) | 50 | Solved
 [dont-use-client-side]() | 100 | Unsolved
 [logon]() | 100 | Unsolved
 [where are the robots]() | 100 | Unsolved
