@@ -18,7 +18,7 @@ The flag is in the format PICOCTF{}
 
 We have a picture from the link, and the picture will show some numbers. 
 
-Go to hint we see PICOCTF{}, it means all of the words will be UPPERCASE.
+Go to hint we see `PICOCTF{}`, it means all of the words will be UPPERCASE.
 
 Then we'll write some code to decode it.
 
@@ -50,7 +50,6 @@ Result...
 ```bash
 m14@m14ghost:~/Programming$ python solve.py 
 PICOCTF{THENUMBERSMASON}
-m14@m14ghost:~/Programming$ 
 ```
 
 ## Flag
