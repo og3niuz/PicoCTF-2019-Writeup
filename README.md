@@ -41,7 +41,7 @@ Challenges | Points | Status
 Challenges | Points | Status
 ---------- | ------ | ------
 [The Factory's Secret]() | 1 | Unsolved
-[Lets Warm Up]() | 50 | Unsolved
+[Lets Warm Up](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/Lets-warm-up.md) | 50 | Solved
 
 # Reverse Engineering
 
