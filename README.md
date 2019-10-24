@@ -29,7 +29,7 @@ Challenges | Points | Status
 Challenges | Points | Status
 ---------- | ------ | ------
 [Glory of the Garden]() | 50 | Unsolved
-[unzip]() | 50 | Unsolved
+[unzip](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Forensics/unzip.md) | 50 | Solved
 
 # General Skills
 Challenges | Points | Status

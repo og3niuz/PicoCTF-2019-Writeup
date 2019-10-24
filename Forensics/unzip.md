@@ -17,13 +17,13 @@ No hint
 ## Solution
 
 ```bash
-[//]: # check for version of zip file
+# check for version of zip file
 file flag.zip
 
-[//]: # The Strings command basically prints the strings of printable characters in files
+# The Strings command basically prints the strings of printable characters in files
 strings -e l flag.zip | grep pico
 
-[//]: # Then just unzip flag.zip. Finally we've got a flag.png image. This will show you the flag
+# Then just unzip flag.zip. Finally we've got a flag.png image. This will show you the flag
 unzip flag.zip
 
 ```
