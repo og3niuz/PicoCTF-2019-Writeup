@@ -24,7 +24,9 @@ Challenges | Points | Status
 [Open-to-admins](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Web%20Exploitation/Open-to-admins.md)  | 200 | Solved 
 [picobrowser]() | 200 | Solved
 [Irish-Name-Repo 1](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Web%20Exploitation/Irish-Name-Repo1.md) | 300 | Solved
+[Irish-Name-Repo 2](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Web%20Exploitation/Irish-Name-Repo2.md) | 350 | Solved
 [Java Script Kiddie](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Web%20Exploitation/Java-Script-Kiddie.md) | 400 | Solved
+[Empire1](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Web%20Exploitation/Empire1.md) | 400 | Solved
 
 # Crytography
 Challenges | Points | Status
@@ -34,20 +36,20 @@ Challenges | Points | Status
 # Foresics
 Challenges | Points | Status
 ---------- | ------ | ------
-[Glory of the Garden]() | 50 | Unsolved
 [unzip](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Forensics/unzip.md) | 50 | Solved
 
 # General Skills
 Challenges | Points | Status
 ---------- | ------ | ------
-[The Factory's Secret]() | 1 | Unsolved
+[The Factory's Secret](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/The-Factory's-Secret.md) | 1 | Solved
 [Lets Warm Up](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/Lets-warm-up.md) | 50 | Solved
+[2Warm](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/2Warm.md) | 50 | Solved
+[Bases](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/Bases.md) | 100 | Solved
+
 
 # Reverse Engineering
-
 Challenges | Points | Status
 ---------- | ------ | ------
-[vault-door-training]() | 50 | Unsolved
 
 ##### Hope you guys will enjoy and find useful things from this
 ##### Thanks for visiting!!!
