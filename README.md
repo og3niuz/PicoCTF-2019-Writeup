@@ -57,8 +57,8 @@ Challenges | Points | Status
 # Binary Exploitation
 Challenges | Points | Status
 ---------- | ------ | ------
-[handy-shellcode]() | 50 | Solved
-[practice-run-1]() | 50 | Solved
+[handy-shellcode](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Binary%20Exploitation/handy-shellcode.md) | 50 | Solved
+[practice-run-1](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Binary%20Exploitation/practice-run-1.md) | 50 | Solved
 
 ##### Hope you guys will enjoy and find useful things from this
 ##### Thanks for visiting!!!
