@@ -37,11 +37,14 @@ Challenges | Points | Status
 Challenges | Points | Status
 ---------- | ------ | ------
 [unzip](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Forensics/unzip.md) | 50 | Solved
+[Glory of the Garden](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Forensics/Glory-of-the-Garden.md) | 50 | Solved
+[So Meta](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Forensics/So-meta.md) | 150 | Solved
+[What Lies Within](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Forensics/What-Lies-Within.md) | 150 | Solved
+
 
 # General Skills
 Challenges | Points | Status
 ---------- | ------ | ------
-[The Factory's Secret](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/The-Factory's-Secret.md) | 1 | Solved
 [Lets Warm Up](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/Lets-warm-up.md) | 50 | Solved
 [2Warm](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/2Warm.md) | 50 | Solved
 [Bases](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/Bases.md) | 100 | Solved
@@ -50,6 +53,12 @@ Challenges | Points | Status
 # Reverse Engineering
 Challenges | Points | Status
 ---------- | ------ | ------
+
+# Binary Exploitation
+Challenges | Points | Status
+---------- | ------ | ------
+[handy-shellcode]() | 50 | Solved
+[practice-run-1]() | 50 | Solved
 
 ##### Hope you guys will enjoy and find useful things from this
 ##### Thanks for visiting!!!
