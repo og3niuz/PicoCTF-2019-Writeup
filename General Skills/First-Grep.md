@@ -16,7 +16,7 @@ grep [tutorial](https://ryanstutorials.net/linuxtutorial/grep.php)
 
 ## Solution
 
-Know about this to solve this challenge: [Grep](https://ryanstutorials.net/linuxtutorial/grep.php)
+Know about this to solve this challenge: [Grep](https://ryanstutorials.net/linuxtutorial/grep.php). </br>
 Try to find the flag in file with `m14@pico-2019-shell1:/problems/first-grep_2_04dbf496b78e6c37c0097cdfef734d88$ egrep 'pico' file`. We got the flag.
 
 ## Flag
