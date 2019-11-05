@@ -32,6 +32,8 @@ Challenges | Points | Status
 Challenges | Points | Status
 ---------- | ------ | ------
 [The Numbers](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Cryptography/The-numbers.md) | 50 | Solved
+[13](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Cryptography/13.md) | 100 | Solved
+[Easy1](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Cryptography/Easy1.md) | 100 | Solved
 
 # Foresics
 Challenges | Points | Status
@@ -48,6 +50,7 @@ Challenges | Points | Status
 [Lets Warm Up](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/Lets-warm-up.md) | 50 | Solved
 [2Warm](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/2Warm.md) | 50 | Solved
 [Bases](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/Bases.md) | 100 | Solved
+[First Grep](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/First-Grep.md) | 100 | Solved
 
 
 # Reverse Engineering
@@ -59,7 +62,8 @@ Challenges | Points | Status
 ---------- | ------ | ------
 [handy-shellcode](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Binary%20Exploitation/handy-shellcode.md) | 50 | Solved
 [practice-run-1](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Binary%20Exploitation/practice-run-1.md) | 50 | Solved
+[OverFlow 0](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Binary%20Exploitation/OverFlow-0.md) | 100 | Solved
 
-##### Hope you guys will enjoy and find useful things from this
+##### Hope you guys will enjoy and find useful things from my writeup
 ##### Thanks for visiting!!!
 
