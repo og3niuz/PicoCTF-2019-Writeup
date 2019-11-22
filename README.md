@@ -32,7 +32,7 @@ Challenges | Points | Status
 [The Numbers](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Cryptography/The-numbers.md) | 50 | Solved
 [13](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Cryptography/13.md) | 100 | Solved
 [Easy1](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Cryptography/Easy1.md) | 100 | Solved
-[caesar]() | 100 | Solved
+[caesar](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Cryptography/caesar.md) | 100 | Solved
 
 # Foresics
 Challenges | Points | Status
@@ -50,7 +50,7 @@ Challenges | Points | Status
 [2Warm](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/2Warm.md) | 50 | Solved
 [Bases](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/Bases.md) | 100 | Solved
 [First Grep](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/First-Grep.md) | 100 | Solved
-[strings it]() | 100 | Solved
+[strings it](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/strings-it.md) | 100 | Solved
 
 
 # Reverse Engineering
