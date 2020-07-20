@@ -17,7 +17,7 @@ Challenges | Points | Status
 [Insp3ct0r](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Web%20Exploitation/Insp3ct0r.md) | 50 | Solved
 [dont-use-client-side](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Web%20Exploitation/dont-use-client-side.md) | 100 | Solved
 [logon](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Web%20Exploitation/logon.md) | 100 | Solved
-[where are the robots](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Web%20Exploitation/picobrowser.md) | 100 | Solved
+[where are the robots](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Web%20Exploitation/where-are-the-robots.md) | 100 | Solved
 [Client-side-again](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Web%20Exploitation/Client-side-again.md)  | 200 | Solved 
 [Open-to-admins](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Web%20Exploitation/Open-to-admins.md)  | 200 | Solved 
 [picobrowser]() | 200 | Solved
