@@ -1,6 +1,6 @@
 # PicoCTF-2019-Writeup
 
-This CTF's writeups was done by @m14ghost
+This CTF's writeups 
 
 # Content Page
 
