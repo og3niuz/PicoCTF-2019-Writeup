@@ -1,6 +1,6 @@
 # PicoCTF-2019-Writeup
 
-This CTF's writeups 
+CTF's writeups 
 
 # Content Page
 
